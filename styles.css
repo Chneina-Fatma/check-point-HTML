@@ -1,0 +1,27 @@
+
+body{
+background-color: rgb(213, 213, 235);
+}
+
+h1{
+    text-align: center;
+    color: darkseagreen;
+}
+h2{
+    background-color: rgb(221, 250, 143);
+    margin-bottom: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+nav ul{
+    list-style:none;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color:rgb(57, 107, 7);
+    font-size: 25px;
+}
